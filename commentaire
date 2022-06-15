@@ -1,0 +1,3 @@
+Exercice 2, préférez l'utilisation du setter dans le constructeur et Stringbuilder ou StringBuffer dans le toString. D'après le schéma uml les attributs nom et prénom de Individu doivent être en protected et non private
+Exercice 3, vous n'avez pas fait les getter et setter de la classe Peron, le nombreInervenant n'est pas static et vous n'avez pas pris en compte mes remarques de ce matin.
+Exercice 4, même remarque que sur l'exercice 3 au niveau des getter et setter de la classe Machine.
