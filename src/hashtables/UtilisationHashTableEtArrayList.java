@@ -2,8 +2,6 @@ package hashtables;
 
 import java.time.LocalDate;
 import java.util.ArrayList;
-import java.util.Hashtable;
-import java.util.List;
 
 public class UtilisationHashTableEtArrayList {
     public static void main(String[] args) {
